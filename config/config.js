@@ -6,6 +6,7 @@ var db = new sequelize(
     "",
     {
         dialect: "mysql",
+        dialectModule: require('mysql2'),
         host: 'mysql.mhusen.site',
         port: '17984'
     }
