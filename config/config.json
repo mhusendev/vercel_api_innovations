@@ -5,7 +5,7 @@
     "database": "db_inovasi",
     "host": "mysql.mhusen.site",
     "port":"17984",
-    "dialect": "mysql2"
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
