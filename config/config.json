@@ -3,7 +3,8 @@
     "username": "root",
     "password": null,
     "database": "db_inovasi",
-    "host": "127.0.0.1",
+    "host": "mysql.mhusen.site",
+    "port":"17984",
     "dialect": "mysql"
   },
   "test": {
