@@ -17,8 +17,9 @@
   "production": {
     "username": "root",
     "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "database": "db_inovasi",
+    "host": "mysql.mhusen.site",
+    "port":"17984",
     "dialect": "mysql"
   }
 }
